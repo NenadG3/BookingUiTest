@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="booking_ui_test" value="amazon-ui-tests" />
+      </map>
+    </option>
+  </component>
+</project>

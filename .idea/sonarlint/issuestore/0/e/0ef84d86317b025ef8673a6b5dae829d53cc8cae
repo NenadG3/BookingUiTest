@@ -1,0 +1,5 @@
+
+l	java:S1066"+Replace this use of System.out by a logger.(Ì…›8…åÑ•ž2J$87636d5a-b2e6-4f12-87dd-2149aca214b9
+¡
+java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‡åÑ•ž2J$04228ba4-9288-4002-a79c-4b6ba50f686b
+k	java:S1089")Either remove or fill this block of code.(ä ¹€8ˆåÑ•ž2J$3b22238e-f75b-4f32-8b1e-8eff8741a3e9
